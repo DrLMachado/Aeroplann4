@@ -24,7 +24,9 @@
     "uniqCompNum": 38,
     "versionPublish": "3.9.2",
     "publishType": "github",
-    "publishPath": "file:///C:/Users/Logan/Desktop/VOLLARE/HOMEPAGE"
+    "publishPath": "file:///C:/Users/Logan/Desktop/VOLLARE/HOMEPAGE",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -59,7 +61,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-85019-2000x1333-21.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -682,7 +684,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -865,7 +867,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AEROPLAN<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" target=\"_blank\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-e\" target=\"_blank\">Our Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-u\" target=\"_blank\">Mission, Vision and Values</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-10\">Board of Directors</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#features1-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Courses</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box5-f\" target=\"_blank\">IAT</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-r\" target=\"_blank\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" target=\"_blank\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-e\" target=\"_blank\">Our Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-u\" target=\"_blank\">Mission, Vision and Values</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-10\">Board of Directors</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-f\" target=\"_blank\">COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-r\" target=\"_blank\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
