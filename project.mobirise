@@ -24,7 +24,7 @@
     "uniqCompNum": 38,
     "versionPublish": "3.9.2",
     "publishType": "github",
-    "publishPath": "@PROJECT_PATH@",
+    "publishPath": "file:///C:/Users/Logan/Desktop/VOLLARE/HOMEPAGE",
     "favicon": "",
     "noImageResize": ""
   },
