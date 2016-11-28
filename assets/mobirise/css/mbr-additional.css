@@ -1,7 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -420,7 +422,8 @@ h6,
 }
 #header1-1 .mbr-section-title {
   text-align: left;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
 }
 #header1-1 .mbr-section-lead {
   text-align: left;
@@ -438,6 +441,7 @@ h6,
   font-size: 46px;
   color: #ffffff;
   text-align: right;
+  font-family: 'Droid Sans', sans-serif;
 }
 #header3-z B {
   font-size: 20px;
@@ -496,6 +500,15 @@ h6,
 #msg-box5-f H3 {
   font-size: 32px;
 }
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-18 H3 {
+  text-align: right;
+  color: #2969b0;
+  font-size: 36px;
+}
 #form1-r .form-control-label {
   color: #232323;
 }
@@ -511,6 +524,11 @@ h6,
 #header1-s .mbr-section-title {
   text-align: center;
   color: #ffffff;
+  font-size: 60px;
+  font-family: 'Droid Sans', sans-serif;
+}
+#header1-s .mbr-section-lead B {
+  font-size: 22px;
 }
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
