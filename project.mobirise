@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 62,
-    "versionPublish": "3.9.2",
+    "uniqCompNum": 77,
+    "versionPublish": "3.10",
     "publishType": "github",
     "publishPath": "file:///C:/Users/Logan/Desktop/AEROPLANN/HOMEPAGE",
     "favicon": "",
@@ -386,17 +386,18 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "pencil",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title3": "VALUES",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Act in a responsible, honest and transparent manner in all our businesses, Research and innovate based on aeronautical science and always persue the excellence of our products, in the relationship with our clients, investors and suppliers and coworkers.",
+          "caption3": "Act in a responsible, honest and transparent manner in all our businesses. Research and innovate based on aeronautical science and always persue the excellence of our products, in the relationship with our clients, investors and suppliers and coworkers.\u001b\u001b",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -513,7 +514,7 @@
             }
           },
           "title1": "Ricardo Ruiz",
-          "subtitle1": "Senior Aviator",
+          "subtitle1": "ATP",
           "caption1": "has been an aviator for more than 30 years, on which 8 years of them were dedicated to international flights. He has already flown the Bombardier Global Express where he acquired a lot of experience in international routes, including the flight planning. Departing from Brazil, he has flown to 5 continents and navigated through all oceanic routes.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -635,13 +636,13 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/adobestock-65815743-wm-1400x933-8-1400x933-99.png",
+              "src": "@PROJECT_PATH@/assets/images/global-express-private-jet-cockpit1-1400x797-40.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -660,8 +661,8 @@
             }
           },
           "title": "&nbsp;INTERNATIONAL AIR TRAFFIC AND FLIGHT PLANNING",
-          "text": "The International Air Traffic online course with emphasis on International Flight Planning consist of 2 (two) parts: <br>a) Jeppesen Airway Manual <br>International Flight Planning<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "The International Air Traffic online course with emphasis on International Flight Planning consist of 2 (two) parts: <br>a) Jeppesen Airway Manual <br>b) International Flight Planning<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"TAI.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -682,7 +683,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#fff",
+            "bgColor": "#fff4d5",
             "showMeta": false
           },
           "title": "Our Gallery",
@@ -715,16 +716,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/foto3-2000x1493-67-2000x1493-58.jpg",
                 "image": "@PROJECT_PATH@/assets/images/foto3-2000x1493-67.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/foto4-2000x2677-69-2000x2677-52.jpg",
-                "image": "@PROJECT_PATH@/assets/images/foto4-2000x2677-69.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -766,13 +757,33 @@
                 "thumb": "@PROJECT_PATH@/assets/images/pexels-photo-157080-2000x1333-64-2000x1333-85.png",
                 "image": "@PROJECT_PATH@/assets/images/pexels-photo-157080-2000x1333-64.png",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/global-express-private-jet-cockpit1-2000x1139-26-2000x1139-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/global-express-private-jet-cockpit1-2000x1139-26.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aircraft-holiday-sun-tourism-99567-2000x1261-52-2000x1261-27.png",
+                "image": "@PROJECT_PATH@/assets/images/aircraft-holiday-sun-tourism-99567-2000x1261-52.png",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#fff4d5",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -994,7 +1005,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AEROPLAN<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" target=\"_blank\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-e\" target=\"_blank\">Our Business, Our History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-u\" target=\"_blank\">Mission, Vision and Values</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-10\">Board of Directors</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-f\" target=\"_blank\">COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-18\" target=\"_blank\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-r\" target=\"_blank\" aria-expanded=\"true\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-19\" target=\"_blank\">\u001b</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" target=\"_blank\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features4-e\" target=\"_blank\">Our Business, Our History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features2-u\" target=\"_blank\">Mission, Vision and Values</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-10\">Board of Directors</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-f\" target=\"_blank\">COURSES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-18\" target=\"_blank\">GALLERY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-r\" target=\"_blank\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-19\" target=\"_blank\">\u001b</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
